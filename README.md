@@ -7,7 +7,7 @@
 
 🌱 i’m currently learning full-stack by working on the front- and back-end of a (top secret project)
 
-👀 looking for swe internship opportunities for summer '24
+👀 looking for swe + pm internship opportunities for summer '24
 
 
 💻 technical skills: java, javascript, sql, web development (html, css, boostrap), iOS development (swift/swiftUI)
